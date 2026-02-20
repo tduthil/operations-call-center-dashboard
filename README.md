@@ -29,7 +29,8 @@ Team Leader can view agent performance and identify call types and agents needin
 Agents can view individual performance and call types that need to be optimized
 <img width="1091" height="763" alt="image" src="https://github.com/user-attachments/assets/3b2da775-9850-430e-af98-5107d1ad569d" />
 
-Solution
+Solution:
+
 Designed and developed a three tier interactive dashboard in Power BI providing executive, team, and agent-level insights into call center operations.
 
 Dashboard Architecture:
